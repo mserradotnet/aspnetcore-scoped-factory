@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using System;
 
-namespace AspNetDiTest1
+namespace ScopedFactory
 {
     public static class ServiceCollectionExtensions
     {

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ScopedFactory</id>
+    <version>1.0.0</version>
+    <description>Provides usefull extension methods for IServiceCollection.</description>
+  </metadata>
+</package>
